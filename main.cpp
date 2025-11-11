@@ -9,7 +9,7 @@
 #include <algorithm>
 
 namespace fs = std::filesystem;
-
+// only adding this comment to keep my github streak <3
 struct Stats {
     int files = 0;
     int blank = 0;
